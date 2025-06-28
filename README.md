@@ -1,7 +1,7 @@
 # modrek-chatbot
 # 🎓 Chatboot – AI-Powered Student Assistant
+<img width="1100" alt="Screenshot 2025-06-28 at 6 57 31 PM" src="https://github.com/user-attachments/assets/e992c2ae-fbf9-44a5-b120-4967697e0014" />
 
-![Chatbot Workflow](./workflow.png)
 
 This repository contains a custom JSON configuration for an AI-powered **student assistant chatbot**. The chatbot is designed to help students access information, answer questions, and interact with educational content through intelligent workflow automation.
 
@@ -16,7 +16,8 @@ This chatbot is part of the **Modrek AI Website** project. It acts as a smart as
 - Customizable message logic and educational content
 
 ## 🖼️ Workflow Diagram
-![Chatboot Workflow](./workflow.png)
+<img width="1100" alt="Screenshot 2025-06-28 at 6 57 31 PM" src="https://github.com/user-attachments/assets/3c05c866-b4b0-4532-9c49-905d638fcf3c" />
+
 > *Visual representation of the chatbot logic and conversation flow.*
 
 ## 📂 Files Included
