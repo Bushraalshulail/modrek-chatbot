@@ -1,6 +1,5 @@
 # modrek-chatbot
 # 🎓 Chatboot – AI-Powered Student Assistant
-<img width="1100" alt="Screenshot 2025-06-28 at 6 57 31 PM" src="https://github.com/user-attachments/assets/e992c2ae-fbf9-44a5-b120-4967697e0014" />
 
 
 This repository contains a custom JSON configuration for an AI-powered **student assistant chatbot**. The chatbot is designed to help students access information, answer questions, and interact with educational content through intelligent workflow automation.
@@ -38,4 +37,3 @@ Visit the live project: [https://modrek.website](https://modrek.website)
 ## 👩‍💻 Author
 **Bushra Alshulail**  
 Computer Science Graduate | Aspiring AI Developer  
-Published researcher in machine learning for healthcare
